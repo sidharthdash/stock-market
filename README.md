@@ -18,11 +18,11 @@ A small production ready Spring boot application for stock trading. It is protec
 ### Getting Access Token ###
 1. http request to _http://localhost:8080/oauth/token_
 2. User Credentials
-    2. grant type : _password_
-    2. username : _user_
-    2. password : _user_
-    2. client_id : _client_
-    2. client_secret : _clientpassword_
+    1. grant type : password
+    2. username : user
+    3. password : user
+    4. client_id : client
+    5. client_secret : clientpassword
 
 
 ### Contact ###
